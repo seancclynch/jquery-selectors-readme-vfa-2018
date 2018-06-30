@@ -8,9 +8,8 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  return $('');
+  return $('#baby-ninja');
 }
-Write a function ninjaBabySelector that does not accept any parameters. The function should use an ID selector to return the ninja baby image.
 
 function divSelector() {
   return $('div.pics');
